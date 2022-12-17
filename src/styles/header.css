@@ -1,0 +1,52 @@
+.header{
+    padding: 40px 0 66px;
+    background: url('../assets/header/bacground.png.png') center/cover no-repeat;
+    position: relative;
+}
+
+
+
+
+.headerFlexBoxItemBox {
+    display: flex;
+    align-items: center;
+
+}
+
+.headerFlexBoxItemImage{
+    background: url("../assets/header/Group.png") center/ contain no-repeat;
+    width: 78px;
+    height: 50px;
+    margin-right: 120px;
+}
+
+
+
+.headerFlexBoxItemText{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 46px;
+    margin-top: 50px;
+    color: #FFFFFF;
+
+}
+
+.headerFlexBoxItemTelephone {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF
+}
+
+.headerFlexBoxItemContent {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+
+    color: #FFFFFF;
+}

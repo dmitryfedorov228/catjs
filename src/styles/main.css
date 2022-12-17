@@ -1,0 +1,15 @@
+.main{
+    background: #E5E5E5;
+    height: 100vh;
+}
+.home{
+    padding: 97px 0 83px;
+}
+
+
+.homeFlexBoxItemImage{
+    width: 380px;
+    height: 264px;
+    background: url('../assets/home/homecard.png.png') center/cover no-repeat;
+}
+
